@@ -19,9 +19,9 @@ const SCROLL_OFFSET = 100;
 const PROJECTS_DATA = [
     {
         id: 1,
-        title: "AI Portfolio",
-        description: "AI.portfolio which is used to describe my achievements and showcase my skills and projects in an interactive way. Built with modern web technologies and responsive design.",
-        image: "images/ai-portfolio.jpg",
+        title: " Portfolio",
+        description: "portfolio which is used to describe my achievements and showcase my skills and projects in an interactive way. Built with modern web technologies and responsive design.",
+        image: "images/portfolio.jpg",
         technologies: ["HTML", "CSS", "JavaScript"],
         links: {
             live: "#",
@@ -56,7 +56,7 @@ const EXPERIENCE_DATA = [
         startDate: "2024",
         endDate: "Present",
         description: "Currently undergoing comprehensive training in Java full stack development for 6 months, learning both frontend and backend technologies.",
-        skills: ["Java", "JDBC", "MySQL", "Frontend Technologies"],
+        skills: ["Java", "JDBC", "MySQL", "Frontend Technologies","HTML","CSS","JavaScript"],
         achievements: [
             "Learning core Java programming concepts",
             "Database management with MySQL",
@@ -132,13 +132,13 @@ const CONTACT_INFO = {
         {
             name: "LinkedIn",
             icon: "fab fa-linkedin",
-            url: "#",
+            url: "linkedin.com/in/shaik-adil-4116b3291",
             color: "#0077b5"
         },
         {
             name: "GitHub",
             icon: "fab fa-github",
-            url: "#",
+            url: "github.com/adil-93",
             color: "#333"
         },
         {
@@ -150,12 +150,12 @@ const CONTACT_INFO = {
         {
             name: "Instagram",
             icon: "fab fa-instagram",
-            url: "#",
+            url: " https://www.instagram.com/adil__shaik__321?igsh",
             color: "#e4405f"
         }
     ],
     resume: {
-        url: "#",
+        url: "https://drive.google.com/file/d/1yTkLrLRF7jFbOLR5eXZ86xI9ntXo9Ldg/view?usp=drivesdk",
         filename: "Shaik_Adil_Resume.pdf"
     }
 };
@@ -165,8 +165,9 @@ const PERSONAL_INFO = {
     name: "Shaik Adil",
     title: "Java Full Stack Developer",
     subtitle: "Trainee at TAP Academy",
-    description: "My name is Shaik Adil I am Java full stack developer trainee at TAP Academy",
+    description: "My name is Shaik Adil I am Java full stack developer",
     profileImage: "images/profile.jpg",
     intro: "Hi, I'm",
     tagline: "Passionate about creating innovative solutions and learning new technologies."
 };
+
