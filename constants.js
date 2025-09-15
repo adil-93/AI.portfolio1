@@ -132,7 +132,7 @@ const CONTACT_INFO = {
         {
             name: "LinkedIn",
             icon: "fab fa-linkedin",
-            url: "https://www.linkedin.com/in/shaik-adil-4116b3291/",
+            url: "https://www.linkedin.com/feed/",
             color: "#0077b5"
         },
         {
@@ -170,5 +170,6 @@ const PERSONAL_INFO = {
     intro: "Hi, I'm",
     tagline: "Passionate about creating innovative solutions and learning new technologies."
 };
+
 
 
