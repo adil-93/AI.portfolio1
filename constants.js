@@ -132,13 +132,13 @@ const CONTACT_INFO = {
         {
             name: "LinkedIn",
             icon: "fab fa-linkedin",
-            url: "linkedin.com/in/shaik-adil-4116b3291",
+            url: "https://www.linkedin.com/in/shaik-adil-4116b3291/",
             color: "#0077b5"
         },
         {
             name: "GitHub",
             icon: "fab fa-github",
-            url: "github.com/adil-93",
+            url: "https://github.com/adil-93",
             color: "#333"
         },
         {
@@ -170,4 +170,5 @@ const PERSONAL_INFO = {
     intro: "Hi, I'm",
     tagline: "Passionate about creating innovative solutions and learning new technologies."
 };
+
 
